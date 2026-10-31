@@ -1,0 +1,15 @@
+{
+  "sanitized_build_path_string_counts": {
+    "DllExport.dll": 1,
+    "dpvs.dll": 2,
+    "gl05_r.dll": 1,
+    "gl06_r.dll": 1,
+    "gl07_r.dll": 1,
+    "gl12_r.dll": 1,
+    "SwgClient_r.exe": 11
+  },
+  "executable_sections_unchanged": true,
+  "binary_lengths_and_section_offsets_unchanged": true,
+  "owner_paths_and_internal_endpoint_absent": true,
+  "runtime_sha256": "4ff220a60beccf5efa5a534884fa656c3cc03df57855a3a32660e386f613562f"
+}

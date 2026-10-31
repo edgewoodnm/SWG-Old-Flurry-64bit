@@ -1,0 +1,18 @@
+{
+  "automated_checks_passed": 73,
+  "fresh_install": "Eight existing sanitized base archives size/hash verified and extracted; public v1.0.34 content installed; x64 runtime installed and verified.",
+  "native_startup": {
+    "window_opened": true,
+    "observed_stable_seconds": 5,
+    "test_process_closed": true,
+    "login_or_gameplay_performed": false,
+    "sanitized_runtime_retested": true,
+    "normal_desktop_permissions_required_for_registry_initialization": true
+  },
+  "ui": "Rendered preview passed one-action-button and full-brightness artwork checks.",
+  "limitations": [
+    "Windows 10 not tested",
+    "Full gameplay and GPU compatibility QA pending",
+    "No cross-architecture performance claim"
+  ]
+}

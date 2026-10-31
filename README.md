@@ -1,0 +1,36 @@
+# Old Flurry 64 Bit — 2026 Beta
+
+A separate Windows x64 launcher and experimental x64 DirectX 12 client.
+
+## Download
+
+Download **Old-Flurry-64-Bit-v3.0.0-Beta.zip** from [Releases](https://github.com/edgewoodnm/SWG-Old-Flurry-64bit/releases). Extract the ZIP completely and run `OldFlurryLauncher.exe`. Setup creates permanent Desktop and Start Menu shortcuts. Click **DOWNLOAD & INSTALL**, wait for verification, then **PLAY**.
+
+The ZIP includes the x64 client executable, matching runtime DLLs, the self-contained x64 launcher and approved Old Flurry artwork. The launcher downloads the existing sanitized base-game archives and latest public content separately. Internet and approximately 20 GB free disk space are required. No separate .NET installation is needed.
+
+Installed location: `%LOCALAPPDATA%/SWGOldFlurry64/Game`. The classic client remains under its existing separate folder. Players can retain either or both clients. No account passwords, profiles or owner settings are bundled. Public server defaults are generated on the player's PC.
+
+## Patches for both clients
+
+Both launchers consume the same public content feed:
+`https://raw.githubusercontent.com/edgewoodnm/SWG-Old-Flurry-Assets/main/manifest.json`
+
+Publish compatible content patches once there to update both 32-bit and 64-bit installations. Custom content stays in TRE archives; `client.cfg` registration remains supported. The x64 launcher preserves its final native renderer/configuration include across those shared updates.
+
+Architecture-specific binaries remain separate. This repository's `client-runtime.json` controls only x64 executable/runtime updates. Classic executable updates remain on the classic channel. Never put DLLs or EXEs into the shared TRE feed. A patch requiring architecture-specific code must ship the corresponding binaries on each relevant channel and be tested with both clients.
+
+Base game downloads reuse the already published sanitized base archives. This repository owns the base manifest selection; it does not duplicate their multi-gigabyte storage.
+
+## Validation and limits
+
+The launcher checks manifests and SHA-256 hashes before enabling Play; verifies installed content/runtime; blocks corrupt packages; creates local update backups; retains content rollback/repair handling. Every Play checks current feeds. Missing network/update verification blocks Play.
+
+This is a beta, not a guarantee of performance or stability. Intended Windows 10/11 x64; actual Windows 10 testing remains pending. Compatible DirectX 12 hardware/drivers and Shader Model 6.0 are required. The classic x86 DXVK face-fix is not applied to the x64 DX12 client. Client gameplay testing, including the god-buff regression, audio, combat, travel and GPU coverage, remains pending. More RAM or a faster PC alone does not guarantee compatibility.
+
+## Credits
+
+Malakai (Final), original SWG 2.0 64-bit work; SWG-Source and upstream contributors; Old Flurry integration and fixes. Client donor commit `0dc21e65c213a429628aaf3d51f2a6625c108737`; Old Flurry client integration `b3ce9d15e`. Existing game/runtime licenses and upstream attribution continue to apply.
+
+## Maintainers
+
+Upload release assets as a draft, verify server-reported size and SHA-256, then publish the release and activate the matching runtime manifest. Keep public releases free of local configs, accounts, profiles, logs, private server files and credentials. Launcher source is not included in this distribution repository.
