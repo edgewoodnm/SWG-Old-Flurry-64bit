@@ -34,3 +34,10 @@ Malakai (Final), original SWG 2.0 64-bit work; SWG-Source and upstream contribut
 ## Maintainers
 
 Upload release assets as a draft, verify server-reported size and SHA-256, then publish the release and activate the matching runtime manifest. Keep public releases free of local configs, accounts, profiles, logs, private server files and credentials. Launcher source is not included in this distribution repository.
+
+
+## Public content QA v1.0.35
+
+The full Jabba rancor pit, trained mount reward, Stormtrooper Deluxe Blaster Rifle and Twin Legacy Jedi mantles are available through the existing shared content feed. Close the game and update the current launcher; no new launcher or x64 runtime is needed. Darth Maul awards both new robes and the existing saber readout. See [full QA notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.35).
+
+The cumulative TRE-only ZIP was validated through both real installer implementations, including x64 final renderer include restoration, installed receipt verification, preserved personal files and all241 active resource hashes. Full group balance, species fit, crafting and wider hardware coverage remain QA. The architecture-specific runtime manifest and base archives are unchanged.
