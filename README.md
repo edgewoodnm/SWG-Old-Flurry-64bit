@@ -41,3 +41,8 @@ Upload release assets as a draft, verify server-reported size and SHA-256, then 
 The full Jabba rancor pit, trained mount reward, Stormtrooper Deluxe Blaster Rifle and Twin Legacy Jedi mantles are available through the existing shared content feed. Close the game and update the current launcher; no new launcher or x64 runtime is needed. Darth Maul awards both new robes and the existing saber readout. See [full QA notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.35).
 
 The cumulative TRE-only ZIP was validated through both real installer implementations, including x64 final renderer include restoration, installed receipt verification, preserved personal files and all241 active resource hashes. Full group balance, species fit, crafting and wider hardware coverage remain QA. The architecture-specific runtime manifest and base archives are unchanged.
+
+
+## Rancor pit loading-screen QA v1.0.36
+
+The existing shared content updater now supplies matching rancor-pit artwork/story, preserves loading controls and separate Hoth artwork, and retains all v1.0.35 content. Close the game and update the current launcher. No launcher/runtime replacement or server restart. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.36). Native install/resource checks passed; owner in-game loading visual test is pending.
