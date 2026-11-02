@@ -51,3 +51,8 @@ The existing shared content updater now supplies matching rancor-pit artwork/sto
 ## Life Day assets and QA console v1.0.37
 
 The existing shared content updater now supplies the Imperial Frostspire tree, seven standalone Life Day inflatables and QA house console presentation, retaining all previous content. Close the game and update the existing launcher. No launcher/runtime replacement. Server activation occurs with the warned maintenance. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.37). Native install/resource checks passed; in-game seasonal visual and console retrieval testing remain pending.
+
+
+## Sally, Moonlit Mischief and Doc-1985 QA v1.0.38
+
+The shared content updater adds Sally Stitched Wishes Inflatable, Moonlit Mischief Snow Globe and the Doc-1985 Vehicle Deed for the house QA console, retaining all previous content. Close the game and update the existing launcher. No launcher/runtime replacement. Server activation occurs with the warned maintenance. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.38). Native install/resource checks passed; in-game seasonal visual and console retrieval testing remain pending.
