@@ -46,3 +46,8 @@ The cumulative TRE-only ZIP was validated through both real installer implementa
 ## Rancor pit loading-screen QA v1.0.36
 
 The existing shared content updater now supplies matching rancor-pit artwork/story, preserves loading controls and separate Hoth artwork, and retains all v1.0.35 content. Close the game and update the current launcher. No launcher/runtime replacement or server restart. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.36). Native install/resource checks passed; owner in-game loading visual test is pending.
+
+
+## Life Day assets and QA console v1.0.37
+
+The existing shared content updater now supplies the Imperial Frostspire tree, seven standalone Life Day inflatables and QA house console presentation, retaining all previous content. Close the game and update the existing launcher. No launcher/runtime replacement. Server activation occurs with the warned maintenance. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.37). Native install/resource checks passed; in-game seasonal visual and console retrieval testing remain pending.
