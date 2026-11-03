@@ -56,3 +56,8 @@ The existing shared content updater now supplies the Imperial Frostspire tree, s
 ## Sally, Moonlit Mischief and Doc-1985 QA v1.0.38
 
 The shared content updater adds Sally Stitched Wishes Inflatable, Moonlit Mischief Snow Globe and the Doc-1985 Vehicle Deed for the house QA console, retaining all previous content. Close the game and update the existing launcher. No launcher/runtime replacement. Server activation occurs with the warned maintenance. [Release and test notes](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.38). Native install/resource checks passed; in-game seasonal visual and console retrieval testing remain pending.
+
+
+## Admin command visibility v1.0.39
+
+Shared classic and x64 update registers CSR commands. Native server account permissions still control access. Close the game, update the existing launcher and relaunch. No server restart or launcher replacement. Both native updater checks passed. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.39).
