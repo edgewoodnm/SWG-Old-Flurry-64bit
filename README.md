@@ -66,3 +66,8 @@ Shared classic and x64 update registers CSR commands. Native server account perm
 ## Aurora Spire city tree v1.0.40
 
 Adds a 12-metre rainbow Life Day city tree to the QA console and both seasonal vendors for 25 tokens. Uses native mayor-only city placement. Life Day remains disabled. Shared update for classic and x64 clients; no launcher or runtime replacement. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.40). Native updater checks passed; city placement and visual gameplay QA pending.
+
+
+## Vanguard speeder bikes v1.0.41
+
+Adds Imperial and Rebel Vanguard single-seat bikes to Darth Vader for 1,000,000 credits each. Includes dual exhaust, fitted controls and the owner-confirmed mounted robe visibility repair. Life Day remains disabled. Shared update for classic and x64 clients; no launcher or runtime replacement. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.41). Native updater checks passed; Owner private riding and robe visual tests passed; broader species QA ongoing.
