@@ -71,3 +71,8 @@ Adds a 12-metre rainbow Life Day city tree to the QA console and both seasonal v
 ## Vanguard speeder bikes v1.0.41
 
 Adds Imperial and Rebel Vanguard single-seat bikes to Darth Vader for 1,000,000 credits each. Includes dual exhaust, fitted controls and the owner-confirmed mounted robe visibility repair. Life Day remains disabled. Shared update for classic and x64 clients; no launcher or runtime replacement. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.41). Native updater checks passed; Owner private riding and robe visual tests passed; broader species QA ongoing.
+
+
+## Vanguard handling v1.0.42
+
+Vanguard bikes gain base speed224, eightfold acceleration and braking70, with repaired native handling bindings. Store and recall after updating. Life Day remains disabled. Shared update for classic and x64 clients; no launcher or runtime replacement. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.42). Native updater checks passed; Owner private riding and robe visual tests passed; broader species QA ongoing.
