@@ -76,3 +76,8 @@ Adds Imperial and Rebel Vanguard single-seat bikes to Darth Vader for 1,000,000 
 ## Vanguard handling v1.0.42
 
 Vanguard bikes gain base speed224, eightfold acceleration and braking70, with repaired native handling bindings. Store and recall after updating. Life Day remains disabled. Shared update for classic and x64 clients; no launcher or runtime replacement. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.42). Native updater checks passed; Owner private riding and robe visual tests passed; broader species QA ongoing.
+
+
+## Galactic Beacon lightshow tree v1.0.43
+
+Separate animated green LED tree displaying red Rebel and white Imperial emblems with sweeps and chases. Original static rainbow tree preserved. Available from the QA console; seasonal vendors ready at 25 tokens, with Life Day still disabled. Shared classic/x64 TRE-only update, no launcher or runtime replacement and no server restart. Owner confirmed private classic animation; broader rendering and placement QA ongoing. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.43).
