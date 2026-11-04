@@ -81,3 +81,8 @@ Vanguard bikes gain base speed224, eightfold acceleration and braking70, with re
 ## Galactic Beacon lightshow tree v1.0.43
 
 Separate animated green LED tree displaying red Rebel and white Imperial emblems with sweeps and chases. Original static rainbow tree preserved. Available from the QA console; seasonal vendors ready at 25 tokens, with Life Day still disabled. Shared classic/x64 TRE-only update, no launcher or runtime replacement and no server restart. Owner confirmed private classic animation; broader rendering and placement QA ongoing. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.43).
+
+
+## Old Flurry LED billboards v1.0.44
+
+Three branded LED signs with irregular red-cloud lightning, permanent Mos Eisley starport/cantina buildout placements, and QA console items. Includes matching client buildout rows and cantina wall clearance. Shared classic/x64 TRE-only content update; launcher and runtime unchanged. Owner confirmed base sign rendering; latest storm, final clearance and broader placement/hardware QA ongoing. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.44).
