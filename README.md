@@ -91,3 +91,8 @@ Three branded LED signs with irregular red-cloud lightning, permanent Mos Eisley
 ## Runtime 0.1.1: desktop switching
 
 Borderless fullscreen and Windows-key access, delivered through the existing launcher Update button. Close the game before updating, then relaunch. Configuration-only patch; binaries, graphics backend, login settings, profiles, content and base client preserved. No replacement launcher or server restart. Native installer and borderless/non-topmost window checks passed; player keyboard confirmation pending. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-64bit/releases/tag/runtime-0.1.1).
+
+
+## Be Kind / Mod the Galaxy billboard v1.0.45
+
+Adds the large bright LED billboard to the shared classic/x64 content feed and QA console. 44-second show: longer picture holds and unchanged flashing green final words. Includes the approved saved Mos Eisley world display; this client package adds no duplicate world placement. Existing x64 runtime 0.1.1 desktop-switching fix is preserved. No replacement launcher or server restart required. Broader hardware/city placement QA continues. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.45).
