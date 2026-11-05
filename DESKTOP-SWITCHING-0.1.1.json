@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "version": "0.1.1",
+  "configuration_only": true,
+  "all_runtime_binaries_unchanged": true,
+  "native_runtime_installer_passed": true,
+  "personal_settings_and_profiles_preserved": true,
+  "final_runtime_include_overrides_legacy_launcher_fullscreen_defaults": true,
+  "native_window": {
+    "passed": true,
+    "always_on_top": false,
+    "caption": false,
+    "width": 1280,
+    "height": 720,
+    "desktop_width": 1280,
+    "desktop_height": 720,
+    "keyboard_shortcut_player_test": "pending"
+  },
+  "manual_keyboard_gameplay_test": "pending",
+  "new_launcher_required": false,
+  "server_or_classic_changes": false
+}

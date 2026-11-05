@@ -1,0 +1,7 @@
+Old Flurry x64 runtime 0.1.1 - Desktop switching
+
+Uses borderless fullscreen instead of the legacy always-on-top fullscreen path, and enables the Windows key in both display modes. Keeps the full-screen appearance and existing configured resolution.
+
+Configuration-only runtime update: all game/renderer binaries, graphics backend and server address are unchanged. No replacement launcher, game re-download, server restart, or 32-bit client change. Close the 64-bit game and click Update in the existing 64-bit launcher. Restart the game to apply.
+
+Validated through the existing native x64 runtime installer and launcher configuration ordering. Actual Alt+Tab/Windows-key gameplay confirmation is pending player testing.

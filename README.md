@@ -86,3 +86,8 @@ Separate animated green LED tree displaying red Rebel and white Imperial emblems
 ## Old Flurry LED billboards v1.0.44
 
 Three branded LED signs with irregular red-cloud lightning, permanent Mos Eisley starport/cantina buildout placements, and QA console items. Includes matching client buildout rows and cantina wall clearance. Shared classic/x64 TRE-only content update; launcher and runtime unchanged. Owner confirmed base sign rendering; latest storm, final clearance and broader placement/hardware QA ongoing. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.44).
+
+
+## Runtime 0.1.1: desktop switching
+
+Borderless fullscreen and Windows-key access, delivered through the existing launcher Update button. Close the game before updating, then relaunch. Configuration-only patch; binaries, graphics backend, login settings, profiles, content and base client preserved. No replacement launcher or server restart. Native installer and borderless/non-topmost window checks passed; player keyboard confirmation pending. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-64bit/releases/tag/runtime-0.1.1).
