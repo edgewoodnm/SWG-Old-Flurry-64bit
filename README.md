@@ -96,3 +96,8 @@ Borderless fullscreen and Windows-key access, delivered through the existing lau
 ## Be Kind / Mod the Galaxy billboard v1.0.45
 
 Adds the large bright LED billboard to the shared classic/x64 content feed and QA console. 44-second show: longer picture holds and unchanged flashing green final words. Includes the approved saved Mos Eisley world display; this client package adds no duplicate world placement. Existing x64 runtime 0.1.1 desktop-switching fix is preserved. No replacement launcher or server restart required. Broader hardware/city placement QA continues. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.45).
+
+
+## Elder Jedi v1.0.46
+
+Standalone Elder Jedi profession, classic skill training, custom ability icons, main-menu holocron training, robe milestones and three fifth-generation lightsaber recipes at level 90. Shared TRE content for both 32-bit and 64-bit launchers. Existing x64 runtime and base distribution are preserved. Crafting and balance QA continues. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.46).
