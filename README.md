@@ -101,3 +101,8 @@ Adds the large bright LED billboard to the shared classic/x64 content feed and Q
 ## Elder Jedi v1.0.46
 
 Standalone Elder Jedi profession, classic skill training, custom ability icons, main-menu holocron training, robe milestones and three fifth-generation lightsaber recipes at level 90. Shared TRE content for both 32-bit and 64-bit launchers. Existing x64 runtime and base distribution are preserved. Crafting and balance QA continues. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.46).
+
+
+## Elder Jedi v1.0.47
+
+Fifteen named Elder Jedi tree pages, grouped Classic, Legacy and Force-Sensitive icons, Crafting Mastery, earned titles and repaired combat data. XP is currently 40x normal for testing; level and prerequisite gates apply. Shared TRE content for both 32-bit and 64-bit launchers. Existing x64 runtime and base distribution are preserved. Crafting and balance QA continues. [Release](https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/tag/v1.0.47).
